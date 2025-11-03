@@ -1,0 +1,13 @@
+# Arquivos de Sistema e de Editor
+.DS_Store
+*.swp
+.vscode/
+
+# Arquivos de Objeto/Temporários do Compilador
+*.o
+*.out
+*.tmp
+
+# ARQUIVOS COMPILADOS (EXECUTÁVEIS)
+# Ignora executáveis gerais
+*.exe
